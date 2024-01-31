@@ -13,7 +13,7 @@
 
     <properties>
         <main.basedir>${project.parent.basedir}</main.basedir>
-        <kotlin.version>1.8.20</kotlin.version>
+        <kotlin.version>1.9.22</kotlin.version>
 
         <!-- plugin versions-->
         <ktlint-plugin.version>1.14.0</ktlint-plugin.version>
