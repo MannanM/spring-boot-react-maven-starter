@@ -17,7 +17,7 @@
 
         <!-- plugin versions-->
         <ktlint-plugin.version>3.0.0</ktlint-plugin.version>
-        <detekt-plugin.version>1.23.4</detekt-plugin.version>
+        <detekt-plugin.version>1.23.5</detekt-plugin.version>
     </properties>
 
     <dependencies>
