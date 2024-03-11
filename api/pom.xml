@@ -16,7 +16,7 @@
         <kotlin.version>1.9.22</kotlin.version>
 
         <!-- plugin versions-->
-        <ktlint-plugin.version>3.0.0</ktlint-plugin.version>
+        <ktlint-plugin.version>3.2.0</ktlint-plugin.version>
         <detekt-plugin.version>1.23.4</detekt-plugin.version>
     </properties>
 
